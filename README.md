@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/el_brigos" target="blank"><img src="https://img.shields.io/twitter/follow/el_brigos?logo=twitter&style=for-the-badge" alt="el_brigos" /></a> </p>
 
-- 🔭 I’m currently working on [Taberna 6 Launcher](https://el-taberna.com/taberna6)
+- 🔭 I’m currently working on [Taberna 7 Launcher](https://el-taberna.com/)
 
 - 🌱 I’m currently learning **Networks**
 
